@@ -6,33 +6,30 @@ I got interested in programming by making Scratch games in third grade. A few ye
 
 Today, I'm way more experienced in Python than before, but I am still not a pro and still learning stuff. I also developed a small homebrew application for the Nintendo 3DS in C++.
 
-```json
-{
-	"general" {
-		"age": 15,
-		"gender": "male",
-		"languages": ["german, english"],
-		"coding_languages": ["python"]
-	},
+```toml
+[general]
+age = 15
+gender = "male"
+languages = ["german, english"]
+coding_languages = ["python", "rust"]
 
-	"usernames" {
-		"discord": "badluma",
-	    "pnid": "badlumaa",
-    	"minecraft": "SilasSB"
-	},
+[usernames]
+discord = "badluma"
+instagram = "badlumaa"
+mastodon = "badluma"
+youtube = "badluma"
+pnid = "badlumaa"
+minecraft = "SilasSB"
 
-	"hardware" {
-		"device": "Macbook Air",
-		"chip": "Apple M4",
-		"memory": "16GB"
-	},
+[hardware]
+device = "Macbook Air"
+chip = "Apple M4"
+memory = "16GB"
 
-	"software" {
-		"ide": {
-        "voideditor.com",
-        "https://www.jetbrains.com/rust/" }
-		"video_editing": "Final Cut Pro X",
-		"documentation": "Anytype"
-	}
-}
+[software]
+ide = [ "zed.dev", "https://www.jetbrains.com/rust/" ]
+video_editing = "Final Cut Pro X"
+pkm = "Obsidian"
 ```
+
+

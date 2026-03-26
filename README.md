@@ -8,10 +8,10 @@ Today, I'm way more experienced in Python than before, but I am still not a pro 
 
 ```toml
 [general]
-age = 15
+age = 16
 gender = "male"
 languages = ["german, english"]
-coding_languages = ["python", "rust"]
+programming_languages = ["python", "rust"]
 
 [usernames]
 discord = "badluma"
@@ -27,8 +27,8 @@ chip = "Apple M4"
 memory = "16GB"
 
 [software]
-ide = [ "zed.dev", "https://www.jetbrains.com/rust/" ]
-video_editing = "Final Cut Pro X"
+ide = "zed.dev"
+video_editing = "Adobe Premiere Pro"
 pkm = "Obsidian"
 ```
 

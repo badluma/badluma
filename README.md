@@ -29,7 +29,7 @@ memory = "16GB"
 [software]
 ide = "zed.dev"
 video_editing = "Adobe Premiere Pro"
-pkm = "Obsidian"
+documentation = "Obsidian"
 ```
 
 

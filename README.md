@@ -19,7 +19,7 @@ instagram = "badlumaa"
 mastodon = "badluma"
 youtube = "badluma"
 pnid = "badlumaa"
-minecraft = "SilasSB"
+minecraft = "badluma"
 
 [hardware]
 device = "Macbook Air"
